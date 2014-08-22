@@ -1,6 +1,6 @@
 # Awesome Security
 
-A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+A collection of awesome software, libraries, documents, books, resources and cool stuffs about security.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python).
 
