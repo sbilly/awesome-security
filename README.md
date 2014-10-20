@@ -105,7 +105,7 @@ loosing the essens in the DNS answer.
 ## Big Data
 * [data_hacking](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
 * [hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
-* [Workbench](http://workbench.readthedocs.org/) - A scalable python framework for security research and development teams. Workbench focuses on simplicity, transparency, and easy on-site customization. As an open source python project it provides light-weight task management, execution and pipelining for a loosely-coupled set of python classes.
+* [Workbench](http://workbench.readthedocs.org/) - A scalable python framework for security research and development teams. 
 
 ## Other Awesome Lists
 
