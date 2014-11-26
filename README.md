@@ -125,6 +125,7 @@ loosing the essens in the DNS answer.
 * [data_hacking](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
 * [hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
 * [Workbench](http://workbench.readthedocs.org/) - A scalable python framework for security research and development teams. 
+* [OpenSOC](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 
 ## Other Awesome Lists
 
