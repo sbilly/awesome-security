@@ -181,6 +181,6 @@ Other amazingly awesome lists:
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awsome-* or *-awesome lists.
 - [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 
-## [Contributing](CONTRIBUTING.md)
+## [Contributing](contributing.md)
 
 Your contributions are always welcome!
