@@ -179,6 +179,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 - [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ### Other Common Awesome Lists
 
