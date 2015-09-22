@@ -173,6 +173,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Other Security Awesome Lists
 
+- [Android Security Awesome](https://github.com/ashishb/android-security-awesome) -  A collection of android security related resources.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
 ### Other Common Awesome Lists
