@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Sniffer](#sniffer)
     - [Security Information & Event Management](#security-information--event-management)
     - [VPN](#vpn)
+    - [Fast Packet Processing](#fast-packet-processing)
   - [Endpoint](#endpoint)
   - [Threat Intelligence](#threat-intelligence)
   - [Web](#web)
@@ -97,6 +98,14 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### VPN
 
 - [OpenVPN](http://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
+
+### Fast Packet Processing
+
+- [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing. 
+- [PFQ](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
+- [PF_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF_RING is a new type of network socket that dramatically improves the packet capture speed.
+- [PF_RING ZC (Zero Copy)](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/) - PF_RING ZC (Zero Copy) is a flexible packet processing framework that  allows you to achieve 1/10 Gbit line rate packet processing (both RX and TX) at any packet size. It implements zero copy operations including patterns for inter-process and inter-VM (KVM) communications. 
+- [PACKET_MMAP/TPACKET/AF_PACKET](http://lxr.free-electrons.com/source/Documentation/networking/packet_mmap.txt) - It's fine to use PACKET_MMAP to improve the performance of the capture and transmission process in Linux.
 
 ## Endpoint
 
