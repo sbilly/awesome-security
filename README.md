@@ -43,6 +43,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Monitoring / Logging
 
+-[snyk.io](https://snyk.io/) -  Snyk is a opensource tool to scan for vulnerabilities. Find, fix and monitor for known vulnerabilities in Node.js npm package fixtures used for testing the patches of vulndb.
+
 - [justniffer](http://justniffer.sourceforge.net/) - Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 
 - [httpry](http://dumpsterventures.com/jason/httpry/) - httpry is a specialized packet sniffer designed for displaying and logging HTTP traffic. It is not intended to perform analysis itself, but to capture, parse, and log the traffic for later analysis. It can be run in real-time displaying the traffic as it is parsed, or as a daemon process that logs to an output file. It is written to be as lightweight and flexible as possible, so that it can be easily adaptable to different applications.
