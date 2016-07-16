@@ -19,8 +19,11 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Security Information & Event Management](#security-information--event-management)
     - [VPN](#vpn)
     - [Fast Packet Processing](#fast-packet-processing)
+    - [Firewall](#firewall)
+    - [Anti-Spam](#anti-spam)
     - [Docker](#docker)
   - [Endpoint](#endpoint)
+    - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
   - [Threat Intelligence](#threat-intelligence)
   - [Web](#web)
   - [Big Data](#big-data)
@@ -40,6 +43,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Kali](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. Kali Linux is preinstalled with numerous penetration-testing programs, including nmap (a port scanner), Wireshark (a packet analyzer), John the Ripper (a password cracker), and Aircrack-ng (a software suite for penetration-testing wireless LANs).
 - [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 - [Pompem](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+- [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
 
 ### Monitoring / Logging
 
@@ -68,6 +72,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Security Onion](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Bro, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 - [sshwatch](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
 - [AIEngine](https://bitbucket.org/camp0/aiengine) - AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
+- [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
+- [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+- [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
 
 ### Honey Pot / Honey Net
 
@@ -101,6 +108,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Prelude](https://www.prelude-ids.org/) - Prelude is a Universal "Security Information & Event Management" (SIEM) system. Prelude collects, normalizes, sorts, aggregates, correlates and reports all security-related events independently of the product brand or license giving rise to such events; Prelude is "agentless".
 - [OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - OSSIM provides all of the features that a security professional needs from a SIEM offering – event collection, normalization, and correlation.
+- [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 
 ### VPN
 
@@ -114,6 +122,13 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PF_RING ZC (Zero Copy)](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/) - PF_RING ZC (Zero Copy) is a flexible packet processing framework that  allows you to achieve 1/10 Gbit line rate packet processing (both RX and TX) at any packet size. It implements zero copy operations including patterns for inter-process and inter-VM (KVM) communications. 
 - [PACKET_MMAP/TPACKET/AF_PACKET](http://lxr.free-electrons.com/source/Documentation/networking/packet_mmap.txt) - It's fine to use PACKET_MMAP to improve the performance of the capture and transmission process in Linux.
 - [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
+
+### Firewall
+- [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
+- [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
+
+### Anti-Spam
+- [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 
 
 ### Docker Images for Penetration Testing & Security
@@ -134,6 +149,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 
 ## Endpoint
+
+### Anti-Virus / Anti-Malware
+
+- [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 
 ### Configuration Management
 
