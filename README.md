@@ -171,6 +171,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
 ## Threat Intelligence
 
@@ -190,6 +191,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [virustotal](https://www.virustotal.com/) - VirusTotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners. At the same time, it may be used as a means to detect false positives, i.e. innocuous resources detected as malicious by one or more scanners.
 - [IntelMQ](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 - [CIFv2](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
+- [CriticalStack](https://intel.criticalstack.com/) - Free aggregated threat intel for the Bro network security monitoring platform.
 
 ## Web
 
