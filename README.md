@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Threat Intelligence](#threat-intelligence)
   - [Web](#web)
   - [Big Data](#big-data)
+  - [DevOps](#devops)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
     - [Other Common Awesome Lists](#other-common-awesome-lists)
@@ -172,6 +173,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+- [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
 
 ## Threat Intelligence
 
@@ -220,10 +222,15 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OpenSOC](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 
+## DevOps
+
+- [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
+
 ## Datastores
 
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 - [Safe](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
+- [Sops](https://github.com/mozilla/sops - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 
 ## Other Awesome Lists
 
