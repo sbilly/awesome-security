@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Web Application Firewall](#web-application-firewall)
     - [Scanning / Pentesting](#scanning--pentesting-1)
     - [Runtime Application Self-Protection](#runtime-application-self-protection)
+    - [Runtime Application Self-Protection](#runtime-application-self-protection)
   - [Big Data](#big-data)
   - [DevOps](#devops)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -224,6 +225,11 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Runtime Application Self-Protection
 
 - [Sqreen](https://www.sqreen.io/) - Sqreen is a Runtime Application Self-Protection (RASP) solution for software teams. An in-app agent instruments and monitors the app. Suspicious user activities are reported and attacks are blocked at runtime without code modification or traffic redirection.
+
+### Development
+
+- [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
+
 
 ## Big Data
 
