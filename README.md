@@ -37,6 +37,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Development](#development)    
   - [Big Data](#big-data)
   - [DevOps](#devops)
+  - [Operating Systems](#operating-systems)
+    - [Online ressources](#online-ressources)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
     - [Other Common Awesome Lists](#other-common-awesome-lists)
@@ -245,6 +247,13 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## DevOps
 
 - [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
+
+## Operating Systems
+
+### Online ressources
+
+- [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+- [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
 
 ## Datastores
 
