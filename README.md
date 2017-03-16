@@ -286,6 +286,7 @@ Other amazingly awesome lists:
 
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
 - [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
+- [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ## [Contributing](contributing.md)
 
