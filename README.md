@@ -38,7 +38,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Big Data](#big-data)
   - [DevOps](#devops)
   - [Operating Systems](#operating-systems)
-    - [Online ressources](#online-ressources)
+    - [Online resources](#online-resources)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
     - [Other Common Awesome Lists](#other-common-awesome-lists)
@@ -249,7 +249,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## Operating Systems
 
-### Online ressources
+### Online resources
 
 - [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
 - [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
