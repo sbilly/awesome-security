@@ -134,6 +134,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Firewall
 - [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
+- [OPNsense](https://opnsense.org/) - is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform. OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases. It brings the rich feature set of commercial offerings with the benefits of open and verifiable sources.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
 ### Anti-Spam
