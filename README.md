@@ -182,6 +182,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 - [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
+- [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 
 ## Threat Intelligence
