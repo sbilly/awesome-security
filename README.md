@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 - [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 - [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
+- [Lynis](https://cisofy.com/lynis/) - an open source security auditing tool for Linux/Unix.
 
 ### Honey Pot / Honey Net
 
