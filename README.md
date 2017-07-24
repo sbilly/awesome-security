@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Docker](#docker-images-for-penetration-testing--security)
   - [Endpoint](#endpoint)
     - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
+    - [Content Disarm & Reconstruct](#content-disarm--reconstruct)
     - [Configuration Management](#configuration-management)
     - [Authentication](#authentication)
     - [Mobile / Android / iOS](#mobile--android--ios)
@@ -164,6 +165,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Anti-Virus / Anti-Malware
 
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
+
+### Content Disarm & Reconstruct
+
+- [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ### Configuration Management
 
