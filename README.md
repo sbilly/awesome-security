@@ -270,6 +270,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [aws-vault](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 - [blackbox](https://github.com/StackExchange/blackbox) Safely store secrets in a VCS repo using GPG
+- [credstash](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
 - [chamber](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 - [dotgpg](https://github.com/ConradIrwin/dotgpg) A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 - [redoctober](https://github.com/cloudflare/redoctober) Server for two-man rule style file encryption and decryption.
