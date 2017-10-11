@@ -35,7 +35,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Web Application Firewall](#web-application-firewall)
     - [Scanning / Pentesting](#scanning--pentesting-1)
     - [Runtime Application Self-Protection](#runtime-application-self-protection)
-    - [Development](#development)    
+    - [Development](#development)
+  - [Usability](#Usability)
   - [Big Data](#big-data)
   - [Datastores](#datastores)
   - [DevOps](#devops)
@@ -242,6 +243,11 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Development
 
 - [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
+
+
+## Usability
+
+- [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
 
 
 ## Big Data
