@@ -184,6 +184,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
 - [SecMobi Wiki](http://wiki.secmobi.com/) - A collection of mobile security resources which including articles, blogs, books, groups, projects, tools and conferences. *
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+- [OSX Security Awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Forensics
 
