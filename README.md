@@ -35,7 +35,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Web Application Firewall](#web-application-firewall)
     - [Scanning / Pentesting](#scanning--pentesting-1)
     - [Runtime Application Self-Protection](#runtime-application-self-protection)
-    - [Development](#development)    
+    - [Development](#development)
+  - [Usability](#Usability)
   - [Big Data](#big-data)
   - [Datastores](#datastores)
   - [DevOps](#devops)
@@ -184,6 +185,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
 - [SecMobi Wiki](http://wiki.secmobi.com/) - A collection of mobile security resources which including articles, blogs, books, groups, projects, tools and conferences. *
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+- [OSX Security Awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Forensics
 
@@ -235,6 +237,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 - [PTF](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [Infection Monkey](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+- [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ### Runtime Application Self-Protection
 
@@ -243,6 +246,14 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Development
 
 - [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
+- [Securing DevOps](https://www.manning.com/books/securing-devops) - Book that explores how the techniques of DevOps and Security should be applied together to make cloud services safer. (early access, published continuously, final release January 2018)
+- [Understanding API Security](https://www.manning.com/books/understanding-api-security) - Free eBook sampler that gives some context for how API security works in the real world by showing how APIs are put together and how the OAuth protocol can be used to protect them.
+- [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server. 
+
+
+## Usability
+
+- [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
 
 
 ## Big Data
@@ -302,6 +313,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+- [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 
 ### Other Common Awesome Lists
 
