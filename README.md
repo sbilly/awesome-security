@@ -268,6 +268,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## DevOps
 
+- [Docker Security - Quick Reference: For DevOps Engineers](https://binarymist.io/publication/docker-security/) - A book on understanding the Docker security defaults, how to improve them (theory and practical), along with many tools and techniques.
 - [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
 
 ## Operating Systems
