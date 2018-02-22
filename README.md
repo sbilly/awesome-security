@@ -245,6 +245,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Development
 
+- [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) - Free and downloadable book series with very broad and deep coverage of what Web Developers and DevOps Engineers need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 - [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
 - [Securing DevOps](https://www.manning.com/books/securing-devops) - Book that explores how the techniques of DevOps and Security should be applied together to make cloud services safer. (early access, published continuously, final release January 2018)
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - Free eBook sampler that gives some context for how API security works in the real world by showing how APIs are put together and how the OAuth protocol can be used to protect them.
