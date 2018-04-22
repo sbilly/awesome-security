@@ -297,6 +297,12 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 
+## EBooks
+
+### Docker
+
+- [Docker Security - Quick Reference: For DevOps Engineers](https://binarymist.io/publication/docker-security/) - A book on understanding the Docker security defaults, how to improve them (theory and practical), along with many tools and techniques.
+
 ## Other Awesome Lists
 
 ### Other Security Awesome Lists
