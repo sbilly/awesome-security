@@ -122,6 +122,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### VPN
 
 - [OpenVPN](https://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
+- [Tinc](https://tinc-vpn.org/) - Tinc is a Virtual Private Network (VPN) daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet and extra features :).Platform: Linux, FreeBSD, OpenBSD, NetBSD, OS X, Solaris, Windows 2000, XP, Vista and Windows 7 and 8 platforms are supported. 
 
 ### Fast Packet Processing
 
