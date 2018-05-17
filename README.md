@@ -292,7 +292,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [aws-vault](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 - [credstash](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
 - [chamber](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
-- [dotgpg](https://github.com/ConradIrwin/dotgpg) A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 - [Safe](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 - [Sops](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 - [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
