@@ -170,6 +170,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Anti-Virus / Anti-Malware
 
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
+- [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ### Content Disarm & Reconstruct
 
