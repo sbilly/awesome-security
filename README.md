@@ -191,7 +191,11 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
 - [OSX Security Awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 - [Themis](https://github.com/cossacklabs/themis) - High-level multi-platform cryptographic framework for protecting sensitive data: secure messaging with forward secrecy and secure data storage (AES256GCM), suits for building end-to-end encrypted applications.
-- [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources. 
+- [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+- [jadx](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+- [enjarify](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+- [Android Storage Extractor](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ### Forensics
 
