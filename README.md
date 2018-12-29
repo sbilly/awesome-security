@@ -257,6 +257,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Securing DevOps](https://www.manning.com/books/securing-devops) - Book that explores how the techniques of DevOps and Security should be applied together to make cloud services safer. (early access, published continuously, final release January 2018)
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - Free eBook sampler that gives some context for how API security works in the real world by showing how APIs are put together and how the OAuth protocol can be used to protect them.
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server. 
+- [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 
 
 ## Usability
