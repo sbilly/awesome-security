@@ -175,10 +175,12 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+- [MetaDefender Cloud](https://metadefender.opswat.com) - Scan and CDR documents and images for free by OPSWAT
 
 ### Configuration Management
 
 - [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
+- [MetaAccess](https://www.opswat.com/products/metaaccess) - Prevents risky devices from accessing local networks and cloud applications, free up to 25 devices
 
 ### Authentication
 
@@ -226,6 +228,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [CriticalStack](https://intel.criticalstack.com/) - Free aggregated threat intel for the Bro network security monitoring platform.
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
+- [MetaDefender Threat Intelligence Feed]()https://www.opswat.com/developers/threat-intelligence-feed - List of the most looked up file hashes from MetaDefender Cloud.
 
 ## Web
 
