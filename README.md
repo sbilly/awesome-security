@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
 - [Amass](https://github.com/caffix/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
 - [Anevicon](https://github.com/Gymmasssorla/anevicon) - The most powerful UDP-based load generator, written in Rust.
+- [Legion](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ### Monitoring / Logging
 
