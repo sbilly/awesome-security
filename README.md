@@ -323,6 +323,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [How to Hack Like a Pornstar](https://books2read.com/u/bWzdBx) - A step by step process for breaking into a BANK, Sparc Flow, 2017  
 - [How to Hack Like a Legend](https://amzn.to/2uWh1Up) - A hacker’s tale breaking into a secretive offshore company, Sparc Flow, 2018  
 - [How to Investigate Like a Rockstar](https://books2read.com/u/4jDWoZ) - Live a real crisis to master the secrets of forensic analysis, Sparc Flow, 2017
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
 ## Other Awesome Lists
 
