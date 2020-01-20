@@ -273,7 +273,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
-
+- [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
 ## Usability
 
