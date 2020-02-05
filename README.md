@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Mobile / Android / iOS](#mobile--android--ios)
     - [Forensics](#forensics)
   - [Threat Intelligence](#threat-intelligence)
+  - [Case Management](#case-management)
   - [Web](#web)
     - [Organization](#organization)
     - [Web Application Firewall](#web-application-firewall)
@@ -233,6 +234,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [CriticalStack](https://intel.criticalstack.com/) - Free aggregated threat intel for the Bro network security monitoring platform.
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
+
+## Case Management
+- [True Positive](https://truepositive.app/) - SaaS-delivered web application to track and collaborate on your org's security investigations. It's well-documented, you can do everything you can do in the UI via the API, you can standardize your IR processes with case templates, you can restrict access to cases and you can painlessly create cases from emails. Best of all - it's free, with full functionality, up to 5 users.
 
 ## Web
 
