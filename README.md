@@ -151,7 +151,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Anti-Spam
 - [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
-- [rspamd](https://rspamd.com/) - Fast, free and open-source spam filtering system.
+- [rspamd](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 - [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 
 
