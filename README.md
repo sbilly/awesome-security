@@ -181,6 +181,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+- [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
 
 ### Content Disarm & Reconstruct
 
