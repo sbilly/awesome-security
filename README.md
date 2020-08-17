@@ -280,7 +280,6 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [API Security in Action](https://www.manning.com/books/api-security-in-action) - Book covering API security including secure development, token-based authentication, JSON Web Tokens, OAuth 2, and Macaroons. (early access, published continuously, final release summer 2020)
 - [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
-- [Securing DevOps](https://www.manning.com/books/securing-devops) - Book that explores how the techniques of DevOps and Security should be applied together to make cloud services safer. (early access, published continuously, final release January 2018)
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - Free eBook sampler that gives some context for how API security works in the real world by showing how APIs are put together and how the OAuth protocol can be used to protect them.
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
@@ -305,7 +304,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## DevOps
 
-- [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
+- [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ## Operating Systems
 
