@@ -213,7 +213,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
-
 ### Forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
@@ -223,6 +222,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+- [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
 
 ## Threat Intelligence
 
