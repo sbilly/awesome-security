@@ -22,6 +22,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Firewall](#firewall)
     - [Anti-Spam](#anti-spam)
     - [Docker](#docker-images-for-penetration-testing--security)
+  - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
   - [Endpoint](#endpoint)
     - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
     - [Content Disarm & Reconstruct](#content-disarm--reconstruct)
@@ -174,7 +175,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 - `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://hub.docker.com/r/bkimminich/juice-shop)
 
-
+## Red Team Infrastructure Deployment
+- [Redcloud](https://github.com/khast3x/Redcloud)
 ## Endpoint
 
 ### Anti-Virus / Anti-Malware
