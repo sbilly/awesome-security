@@ -214,6 +214,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
 - [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler.
 - [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+- [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
+- [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ### Forensics
 
@@ -224,6 +226,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+- [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
 
 ## Threat Intelligence
 
@@ -314,12 +317,17 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Operating Systems
 
+### Privacy & Security
+
+- [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
+- [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
+
 ### Online resources
 
 - [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
 - [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
-
+- [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - Guide for hardening Windows 10
 
 ## Datastores
 
