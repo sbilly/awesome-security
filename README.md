@@ -176,8 +176,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 - `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://hub.docker.com/r/bkimminich/juice-shop)
 
-## Red Team Infrastructure Deployment
-- [Redcloud](https://github.com/khast3x/Redcloud)
 ## Endpoint
 
 ### Anti-Virus / Anti-Malware
@@ -294,6 +292,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+
+## Red Team Infrastructure Deployment
+
+- [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
+
 
 ## Usability
 
