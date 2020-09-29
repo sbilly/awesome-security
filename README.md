@@ -145,7 +145,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PFQ](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
 - [PF_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF_RING is a new type of network socket that dramatically improves the packet capture speed.
 - [PF_RING ZC (Zero Copy)](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/) - PF_RING ZC (Zero Copy) is a flexible packet processing framework that  allows you to achieve 1/10 Gbit line rate packet processing (both RX and TX) at any packet size. It implements zero copy operations including patterns for inter-process and inter-VM (KVM) communications.
-- [PACKET_MMAP/TPACKET/AF_PACKET](http://lxr.free-electrons.com/source/Documentation/networking/packet_mmap.txt) - It's fine to use PACKET_MMAP to improve the performance of the capture and transmission process in Linux.
+- [PACKET_MMAP/TPACKET/AF_PACKET](https://elixir.bootlin.com/linux/latest/source/Documentation/networking/packet_mmap.rst) - It's fine to use PACKET_MMAP to improve the performance of the capture and transmission process in Linux.
 - [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 
 ### Firewall
@@ -328,7 +328,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ### Online resources
 
 - [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
-- [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
+- [Best Linux Penetration Testing Distributions @ CyberPunk](https://www.cyberpunk.rs/category/pentest-linux-distros) - Description of main penetration testing distributions
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 - [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - Guide for hardening Windows 10
 
