@@ -158,6 +158,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
 - [rspamd](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 - [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
+- [Scammer-List](https://scammerlist.now.sh/) - A free open source AI based Scam and Spam Finder with a free API
 
 
 ### Docker Images for Penetration Testing & Security
