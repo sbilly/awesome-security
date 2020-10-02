@@ -255,6 +255,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Organization
 
 - [OWASP](http://www.owasp.org) - The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software.
+- [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
 
 ### Web Application Firewall
 
