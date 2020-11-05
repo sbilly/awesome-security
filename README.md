@@ -249,6 +249,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [CriticalStack](https://intel.criticalstack.com/) - Free aggregated threat intel for the Bro network security monitoring platform.
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
+- [JamesBrine](https://jamesbrine.com.au/) - Free daily threat intelligence feeds in STIX2 and html covering private IP space in Australia and AWS cloud in Asia, Australia, US and the Middle East. Daily lists of newly registered potential phishing domains, categorised by targeted product and IPv4 host information including reverse DNS, malware detections, open ports, detected CVEs and whois data.
+- [STIXValidator](https://stixvalidator.com/) - A simple, free and secure online STIX/STIX2/OpenCTI validator. Validate your JSON before ingestion into your SOC.
 
 ## Web
 
