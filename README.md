@@ -44,6 +44,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
   - [Datastores](#datastores)
+  - [Fraud prevention](#fraud-prevention)
   - [EBooks](#ebooks)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
@@ -358,6 +359,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
+
+## Fraud prevention
+
+- [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 
 ## EBooks
 
