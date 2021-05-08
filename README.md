@@ -219,6 +219,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 - [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 
 ### Forensics
 
