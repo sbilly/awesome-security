@@ -298,6 +298,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+- [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 
 ## Exploits & Payloads
 
