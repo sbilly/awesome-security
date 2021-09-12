@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Mobile / Android / iOS](#mobile--android--ios)
     - [Forensics](#forensics)
   - [Threat Intelligence](#threat-intelligence)
+  - [Social Engineering](#social-engineering)
   - [Web](#web)
     - [Organization](#organization)
     - [Web Application Firewall](#web-application-firewall)
@@ -254,6 +255,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 
+## Social Engineering
+
+- [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+
 ## Web
 
 ### Organization
@@ -303,6 +308,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
+- [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 
 ## Exploits & Payloads
 
@@ -383,6 +389,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 - [AWS Security](https://www.manning.com/books/aws-security?utm_source=github&utm_medium=organic&utm_campaign=book_shields_aws_1_31_20) - This early-access book covers commong AWS security issues and best practices for access policies, data protection, auditing, continuous monitoring, and incident response.
 - [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing) - Book that is a hands-on guide to running your own penetration test on an enterprise network. (early access, published continuously, final release December 2020)
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
 ## Other Awesome Lists
 
