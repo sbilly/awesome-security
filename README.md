@@ -224,6 +224,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
+- [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
 ### Forensics
 
