@@ -42,6 +42,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Usability](#usability)
   - [Big Data](#big-data)
   - [DevOps](#devops)
+  - [Terminal](#terminal)
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
   - [Datastores](#datastores)
@@ -348,6 +349,10 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI. 
 - [Preflight](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+
+## Terminal
+
+* [shellfirm](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 
 ## Operating Systems
 
