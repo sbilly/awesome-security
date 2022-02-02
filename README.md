@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Mobile / Android / iOS](#mobile--android--ios)
     - [Forensics](#forensics)
   - [Threat Intelligence](#threat-intelligence)
+  - [Social Engineering](#social-engineering)
   - [Web](#web)
     - [Organization](#organization)
     - [Web Application Firewall](#web-application-firewall)
@@ -72,6 +73,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [RustScan](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 - [Boofuzz](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
+- [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
+- [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
 ### Monitoring / Logging
 
@@ -84,6 +87,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [ntopng](http://www.ntop.org/products/traffic-analysis/ntop/) - Ntopng is a network traffic probe that shows the network usage, similar to what the popular top Unix command does.
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of monitoring file system  changes, system calls and inventory changes.
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -99,6 +103,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 - [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
 - [Lynis](https://cisofy.com/lynis/) - an open source security auditing tool for Linux/Unix.
+- [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+- [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source XDR platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. Great tool foor all kind of deployments, it includes SIEM capabitilies (indexing + searching + WUI).
 
 ### Honey Pot / Honey Net
 
@@ -136,7 +142,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - OSSIM provides all of the features that a security professional needs from a SIEM offering – event collection, normalization, and correlation.
 - [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 - [LogESP](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
-
+- [wazuh](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
+- 
 ### VPN
 
 - [OpenVPN](https://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
@@ -219,6 +226,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 - [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
+- [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
 ### Forensics
 
@@ -252,6 +261,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 
+## Social Engineering
+
+- [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+
 ## Web
 
 ### Organization
@@ -265,6 +278,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [NAXSI](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
 - [sql_firewall](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 - [ironbee](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+- [Curiefense](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 
 ### Scanning / Pentesting
 
@@ -281,6 +295,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 - [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
+- [Keyscope](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
 
 ### Runtime Application Self-Protection
 
@@ -296,8 +311,10 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
+- [TFSec](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+- [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 
 ## Exploits & Payloads
@@ -329,6 +346,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 - [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 - [Trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI. 
+- [Preflight](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+- [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
 ## Operating Systems
 
@@ -336,7 +355,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
-- [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship. 
+- [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
 
 ### Online resources
 
@@ -347,6 +366,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Datastores
 
+- [databunker](https://databunker.org/) - Databunker is an address book on steroids for storing personal data. GDPR and encryption are out of the box.
 - [acra](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 - [confidant](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
@@ -360,6 +380,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
+- [LunaSec](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
 
 ## Fraud prevention
 
@@ -381,6 +402,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Data Privacy](https://www.manning.com/books/data-privacy) - A book that teaches you to implement technical privacy solutions and tools at scale. (early access, published continuously, final release January 2022)
 - [Cyber Security Career Guide](https://www.manning.com/books/cyber-security-career-guide) - Kickstart a career in cyber security by learning how to adapt your existing technical and non-technical skills. (early access, published continuously, final release Summer 2022)
 - [Secret Key Cryptography]([https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
+- [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
 ## Other Awesome Lists
 
@@ -411,7 +433,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
-- [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
+- [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
 ### Other Common Awesome Lists
 
