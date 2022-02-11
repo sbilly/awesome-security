@@ -445,6 +445,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
+- [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
+- [Awesome WebSocket Security](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
 
 ### Other Common Awesome Lists
 
