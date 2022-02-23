@@ -447,6 +447,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 - [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
 - [Awesome WebSocket Security](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
+- [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. 
 
 ### Other Common Awesome Lists
 
@@ -455,6 +457,9 @@ Other amazingly awesome lists:
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
 - [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 - [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome Analytics](https://github.com/0xnr/awesome-analytics)
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 ## [Contributing](contributing.md)
 
