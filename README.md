@@ -196,6 +196,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 - `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://hub.docker.com/r/bkimminich/juice-shop)
 - `docker pull jeroenwillemsen/wrongsecrets`- [OWASP WrongSecrets](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
+- `docker-compose -d up` - [cicd-goat](https://github.com/cider-security-research/cicd-goat)
 
 ## Endpoint
 
