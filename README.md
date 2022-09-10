@@ -249,6 +249,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
+- [Openpuff](https://blogsection.in/technology/image-and-audio-steganography-using-openpuff-tool/) - Tool for hiding and extracting the information inside an image file.
+- [Autopsy](https://blogsection.in/security/sleuth-kit-autopsy/) - It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera’s memory card.
+- [Encase](https://blogsection.in/security/study-of-encase-forensic-tool/) - EnCase Forensic enables you to collect forensically sound data and conduct complex large-scale investigations from beginning to end.
 
 ## Threat Intelligence
 
