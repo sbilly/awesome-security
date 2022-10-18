@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Run linksafe
         uses: TechWiz-3/linksafe@fast
+        with:
+          whitelist_links: "http://www.clamav.net/,https://www.cipherdyne.org/fwknop/,http://bruteforce.gr/honeydrive,https://ossec.github.io/"
         env:
           TOKEN: ${{ secrets.TOKEN }}
         
