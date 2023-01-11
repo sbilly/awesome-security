@@ -404,6 +404,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
 - [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 - [Cyber Threat Hunting](https://www.manning.com/books/cyber-threat-hunting) - Practical guide to cyber threat hunting.
+- [Edge Computing Rechnology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - A book about the business and technical foundation you need to create your edge computing strategy.
 
 ## Other Awesome Lists
 
