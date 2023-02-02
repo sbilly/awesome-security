@@ -406,6 +406,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Cyber Threat Hunting](https://www.manning.com/books/cyber-threat-hunting) - Practical guide to cyber threat hunting.
 - [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - A book about the business and technical foundation you need to create your edge computing strategy.
 - [Spring Security in Action, Second Edition](https://www.manning.com/books/spring-security-in-action-second-edition) - A book about designing and developing Spring applications that are secure right from the start.
+- [Azure Security](https://www.manning.com/books/azure-security-2) - A practical guide to the native security services of Microsoft Azure.
 
 ## Other Awesome Lists
 
