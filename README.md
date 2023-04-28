@@ -85,6 +85,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 
 ### Monitoring / Logging
+- [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
 - [justniffer](http://justniffer.sourceforge.net/) - Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 - [httpry](http://dumpsterventures.com/jason/httpry/) - httpry is a specialized packet sniffer designed for displaying and logging HTTP traffic. It is not intended to perform analysis itself, but to capture, parse, and log the traffic for later analysis. It can be run in real-time displaying the traffic as it is parsed, or as a daemon process that logs to an output file. It is written to be as lightweight and flexible as possible, so that it can be easily adaptable to different applications.
 - [ngrep](http://ngrep.sourceforge.net/) - ngrep strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
@@ -97,6 +98,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of monitoring file system  changes, system calls and inventory changes.
 - [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 - [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
+- [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -154,7 +156,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 - [LogESP](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
 - [wazuh](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
-- [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
+- [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 
 ### VPN
 
@@ -320,7 +323,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Keyscope](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust  
 - [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.  
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
-- [Keyscope](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
+- [recon](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
 
 ### Runtime Application Self-Protection
 
@@ -335,6 +338,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
+- [Bearer](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 - [TFSec](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
@@ -365,7 +369,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Apache Metron (incubating)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 - [Apache Spot (incubating)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
-- [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 
 ## DevOps
 
@@ -376,6 +381,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Preflight](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
+- [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ## Terminal
 
@@ -435,8 +441,12 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - A book about how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. (early access, published continuously, final release fall 2021)
 - [Data Privacy](https://www.manning.com/books/data-privacy) - A book that teaches you to implement technical privacy solutions and tools at scale. (early access, published continuously, final release January 2022)
 - [Cyber Security Career Guide](https://www.manning.com/books/cyber-security-career-guide) - Kickstart a career in cyber security by learning how to adapt your existing technical and non-technical skills. (early access, published continuously, final release Summer 2022)
-- [Secret Key Cryptography]([https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
+- [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
 - [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
+- [Cyber Threat Hunting](https://www.manning.com/books/cyber-threat-hunting) - Practical guide to cyber threat hunting.
+- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - A book about the business and technical foundation you need to create your edge computing strategy.
+- [Spring Security in Action, Second Edition](https://www.manning.com/books/spring-security-in-action-second-edition) - A book about designing and developing Spring applications that are secure right from the start.
+- [Azure Security](https://www.manning.com/books/azure-security-2) - A practical guide to the native security services of Microsoft Azure.
 
 ## Other Awesome Lists
 
