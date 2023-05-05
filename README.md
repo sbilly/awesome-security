@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+- [SpiderSuite]() - An advance, cross-platform web security crawler.
 
 
 ### Monitoring / Logging
