@@ -82,7 +82,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
-
+- [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
