@@ -385,7 +385,6 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
-- [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 - [Trivy](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI. 
 - [Preflight](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
