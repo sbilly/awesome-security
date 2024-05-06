@@ -251,6 +251,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+- [8kSec Engineering Blog](https://8ksec.io/blog/) - Technical blogs on Mobile Security: ARM64, Advanced Frida, Malware Analysis and more.
 
 ### Forensics
 
