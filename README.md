@@ -420,6 +420,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 - [confidant](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
 - [dotgpg](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
+- [dotsecrets](https://github.com/kamilchm/dotsecrets) - Simple and easy secrets in git, perfect for small teams.
 - [redoctober](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
 - [aws-vault](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 - [credstash](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
