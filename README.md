@@ -117,7 +117,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
 - [Lynis](https://cisofy.com/lynis/) - an open source security auditing tool for Linux/Unix.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
-- [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source XDR platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. Great tool foor all kind of deployments, it includes SIEM capabitilies (indexing + searching + WUI).
+- [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source XDR platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. Great tool foor all kind of deployments, it includes SIEM capabilities (indexing + searching + WUI).
 
 ### Honey Pot / Honey Net
 
@@ -345,7 +345,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Bearer](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
-- [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
+- [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code (Terraform).
 - [TFSec](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
@@ -359,7 +359,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Red Team Infrastructure Deployment
 
-- [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
+- [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployment using Docker.
 - [Axiom](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
 ## Blue Team Infrastructure Deployment
