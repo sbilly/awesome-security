@@ -263,6 +263,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
 - [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
+- [CyberChef](https://gchq.github.io/CyberChef/) - A web-based tool for analyzing, decoding, encoding, and manipulating data. Useful for security researchers, penetration testers, and forensic analysts.
 
 ## Threat Intelligence
 
