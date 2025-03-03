@@ -99,6 +99,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 - [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+- [GUAC](https://guac.sh) — An OpenSSF incubating project to aggregate and enrich your SBOMs for improved supply chain security analysis.
 
 ### IDS / IPS / Host IDS / Host IPS
 
