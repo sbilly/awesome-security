@@ -299,6 +299,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OWASP](http://www.owasp.org) - The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software.
 - [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
 
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An intentionally insecure web app for security training and awareness.
+
+
 ### Web Application Firewall
 
 - [ModSecurity](http://www.modsecurity.org/) - ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
