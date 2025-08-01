@@ -308,6 +308,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [ironbee](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 - [Curiefense](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 - [open-appsec](https://github.com/openappsec/openappsec) - open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
+- [UUSEC-WAF](https://github.com/Safe3/uusec-waf) - UUSEC WAF is an industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP).
 
 ### Scanning / Pentesting
 
