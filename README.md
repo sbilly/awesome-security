@@ -403,8 +403,9 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ### Privacy & Security
 
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
-- [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for private on-premises AI without cloud dependencies or data exfiltration.
 - [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
+- [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
 
 ### Online resources
 
