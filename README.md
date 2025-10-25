@@ -102,6 +102,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### IDS / IPS / Host IDS / Host IPS
 
+- [Meds](https://github.com/cnaize/meds) - Lock-free NFQUEUE-based firewall in Go with real-time filtering, TLS SNI/JA3 inspection, and Prometheus metrics.
 - [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest [pieces of] open source software of all time".
 - [Zeek](https://zeek.org/) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
   - [zeek2es](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
