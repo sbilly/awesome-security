@@ -330,6 +330,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [recon](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
 - [CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 - [Artemis](https://github.com/CERT-Polska/Artemis/) - A modular vulnerability scanner with automatic report generation capabilities.
+- [Certificate Transparency Log Search](https://www.certkit.io/tools/ct-logs/) - Search for certificates issued to a domain to discover possible hosts and related domains.
 
 ### Runtime Application Self-Protection
 
