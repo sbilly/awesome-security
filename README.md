@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+- [Zero Trust API](https://rapidapi.com/image-zero-trust-security-labs/api/zero-trust-api) - Image CDR API that decodes images to raw pixels and rebuilds sterile PNGs, eliminating polyglots, steganography, and image bombs. Built in Rust/WASM.
 
 ### Configuration Management
 
