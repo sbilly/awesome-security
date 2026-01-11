@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [OpenVPN](https://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
 - [Firezone](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+- [TorForge](https://github.com/jery0843/torforge) - Advanced transparent Tor proxy with kernel-level iptables routing, post-quantum encryption (Kyber768), kill switch, steganography mode, and AI-powered circuit selection.
 
 ### Fast Packet Processing
 
