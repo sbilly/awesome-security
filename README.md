@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
 - [Finshir](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 - [Legion](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+- [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [RustScan](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 - [Boofuzz](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
@@ -99,6 +100,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 - [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+- [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
+- [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
+- [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -164,6 +168,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [OpenVPN](https://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
 - [Firezone](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+- [TorForge](https://github.com/jery0843/torforge) - Advanced transparent Tor proxy with kernel-level iptables routing, post-quantum encryption (Kyber768), kill switch, steganography mode, and AI-powered circuit selection.
 
 ### Fast Packet Processing
 
@@ -331,6 +336,9 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 - [Artemis](https://github.com/CERT-Polska/Artemis/) - A modular vulnerability scanner with automatic report generation capabilities.
 - [Trust Scan](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
+- [react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
+- [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+
 
 ### Runtime Application Self-Protection
 
@@ -352,7 +360,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
-- [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration. 
+- [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
+- [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
 
 ## Exploits & Payloads
 
