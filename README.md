@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+- [SmarterMail CVE-2025-52691 Scanner](https://github.com/nxgn-kd01/smartermail-cve-scanner) - Fast, accurate scanner for CVE-2025-52691, a critical (CVSS 10.0) unauthenticated RCE vulnerability in SmarterMail servers. Zero dependencies, supports JSON output and CI/CD integration.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
