@@ -315,7 +315,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [open-appsec](https://github.com/openappsec/openappsec) - open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
 
 ### Scanning / Pentesting
-
+- [MLSecScan](https://github.com/Otsmane-Ahmed/MLSecScan) - Web vulnerability scanner combining machine learning with traditional security testing to detect SQLi & XSS in real-time.
 - [Spyse](https://spyse.com/) - Spyse is an OSINT search engine that provides fresh data about the entire web. All the data is stored in its own DB for instant access and interconnected with each other for flexible search.
 Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more.
 - [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
@@ -368,7 +368,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Red Team Infrastructure Deployment
-
+- [anonymous-c2-infrastructure](https://github.com/Otsmane-Ahmed/anonymous-c2-infrastructure) - Sophisticated Command & Control framework operating entirely over the Tor network with hidden services and end-to-end encryption.
+- [sliver-tor-bridge](https://github.com/Otsmane-Ahmed/sliver-tor-bridge) - Tor transport bridge extension for Sliver C2 offering anonymous command and control via Tor hidden services.
 - [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 - [Axiom](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
