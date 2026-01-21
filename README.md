@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Scanning / Pentesting
 
+- [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
 - [OpenVAS](http://www.openvas.org/) - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
 - [Kali](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. Kali Linux is preinstalled with numerous penetration-testing programs, including nmap (a port scanner), Wireshark (a packet analyzer), John the Ripper (a password cracker), and Aircrack-ng (a software suite for penetration-testing wireless LANs).
