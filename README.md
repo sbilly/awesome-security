@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 - [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
+- [Simulacra](https://github.com/bad-antics/simulacra) - Ontological process authentication — rootkit detection through genealogical tracing, temporal drift analysis, and process ontology.
 - [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
 ### Content Disarm & Reconstruct
@@ -267,6 +268,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
+- [Hyperreal](https://github.com/bad-antics/hyperreal) - Memory forensics beyond reality — negative space analysis, entropy mapping, process hollowing detection.
+- [Cool-Memories](https://github.com/bad-antics/cool-memories) - Immutable forensic logging with hash-chained evidence and blockchain-anchored timestamps.
 - [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
 
 ## Threat Intelligence
