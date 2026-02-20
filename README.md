@@ -475,7 +475,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ### Other Security Awesome Lists
 
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-- [AppSec Santa](https://appsecsanta.com) - Curated comparison of 129+ application security tools across 10 categories including SAST, DAST, SCA, IAST, RASP, API Security, and ASPM.
+- [AppSec Santa](https://appsecsanta.com) - Curated comparison of 190+ application security tools across 10 categories including SAST, DAST, SCA, IAST, RASP, API Security, and ASPM.
 - [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
