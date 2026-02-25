@@ -404,6 +404,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Terminal
 
+* [tirith](https://github.com/sheeki03/tirith) - Terminal security tool that intercepts commands and pasted text, detecting homograph attacks, suspicious URLs, ANSI injection, Unicode abuse, and pipe-to-shell patterns before they execute. Written in Rust with sub-millisecond overhead.
 * [shellfirm](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 * [shellclear](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
 
