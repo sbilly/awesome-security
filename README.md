@@ -361,6 +361,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 - [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
+- [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 148 built-in rules across 13 categories, offline, no LLM dependency.
+- [Oktsec](https://github.com/oktsec/oktsec) - Security proxy for AI agent-to-agent communication with Ed25519 identity verification, policy enforcement, content scanning, and audit trail.
 - [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
 
 ## Exploits & Payloads
