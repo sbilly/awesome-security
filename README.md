@@ -365,6 +365,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Exploits & Payloads
 
+- [KernelSight](https://splintersfury.github.io/KernelSight/) - Windows kernel driver exploitation knowledge base covering 134 CVEs across 62 drivers with exploit chains, BYOVD analysis, and mitigation strategies.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Red Team Infrastructure Deployment
