@@ -212,6 +212,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - `docker pull jeroenwillemsen/wrongsecrets`- [OWASP WrongSecrets](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
 - `docker run -dit --name trd -p 8081:80 cylabs/cy-threat-response` - [Cyware Threat Response Docker](https://hub.docker.com/r/cylabs/cy-threat-response)
 - `docker-compose -d up` - [cicd-goat](https://github.com/cider-security-research/cicd-goat)
+- `docker run -p 3000:3000 leogra/oss-oopssec-store` - [OopsSec Store](https://hub.docker.com/r/leogra/oss-oopssec-store) - An intentionally vulnerable e-commerce app for learning web security (open-source).
 
 ## Endpoint
 
