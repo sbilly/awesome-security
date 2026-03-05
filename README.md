@@ -83,6 +83,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+- [secret-scan](https://github.com/harshahemanth/secret-scan) - A fast, zero-dependency CLI tool to detect secrets (AWS, GitHub, Slack, Stripe, Google, etc.) in source code with SARIF output and CI/CD integration.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
 
 ### Monitoring / Logging
