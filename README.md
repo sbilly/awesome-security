@@ -371,6 +371,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 - [Axiom](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+- [redc](https://github.com/wgpsec/redc) - Next-generation red team infrastructure automation tool built on Terraform, supporting multi-cloud deployment (Alibaba Cloud, Tencent Cloud, AWS, etc.) with one-command deployment for creating, configuring, and destroying red team environments.
 
 ## Blue Team Infrastructure Deployment
 
