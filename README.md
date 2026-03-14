@@ -231,6 +231,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Fleet device management](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 - [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
+- [mcp-doctor](https://github.com/realwigu/mcp-doctor) - A CLI that scans MCP (Model Context Protocol) server configurations for security issues such as hardcoded API keys, tokens in args, shell injection patterns, and unencrypted HTTP transports. Auto-discovers configs across Claude Code, Cursor, VS Code, and Windsurf.
 
 ### Authentication
 
