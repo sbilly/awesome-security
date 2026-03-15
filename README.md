@@ -406,6 +406,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 * [shellfirm](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 * [shellclear](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
+* [zsh-paste-guard](https://github.com/stefanoamorelli/zsh-paste-guard) - A ZSH plugin that detects pasted commands and requires a typed confirmation phrase before execution, preventing clipboard injection attacks (MITRE ATT&CK T1204.004). Confirmation is read from `/dev/tty` so it cannot be spoofed by the pasted payload.
 
 
 ## Operating Systems
