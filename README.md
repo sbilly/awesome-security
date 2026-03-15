@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [ReleaseRun](https://releaserun.com/) - Embeddable badges showing CVE severity counts, EOL status, and version health for 300+ software products.
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -401,6 +402,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+
+- [ReleaseRun Security Scanners](https://releaserun.com/tools/security/) - Browser-based security scanners for Terraform, Kubernetes YAML, Docker Compose, and GitHub Actions workflows. Paste a config file and get an A–F security grade with specific misconfigurations flagged (hardcoded credentials, open ports, privileged containers, missing permissions, supply-chain attack vectors). No install required.
 
 ## Terminal
 
