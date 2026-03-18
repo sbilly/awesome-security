@@ -121,6 +121,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
 - [Lynis](https://cisofy.com/lynis/) - an open source security auditing tool for Linux/Unix.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+- [crowdsec-unifi-bouncer](https://github.com/wolffcatskyy/crowdsec-unifi-bouncer) - CrowdSec firewall bouncer for UniFi OS devices with automatic recovery from firmware updates.
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source XDR platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. Great tool foor all kind of deployments, it includes SIEM capabitilies (indexing + searching + WUI).
 
 ### Honey Pot / Honey Net
