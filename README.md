@@ -236,6 +236,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [google-authenticator](https://github.com/google/google-authenticator) - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
 - [Stegcloak](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+- [APort](https://aport.io) - Open-source agent verification and authorization guardrails for AI agents. Provides pre-action policy enforcement, passport-based access control, and integration with popular frameworks like OpenClaw, LangChain, and CrewAI.
 
 ### Mobile / Android / iOS
 
