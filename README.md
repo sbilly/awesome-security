@@ -508,6 +508,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. 
 
+
+### AI Security
+
+- [APort](https://aport.io) - Universal API adapter for AI agents with built-in verification and security guardrails.
+
 ### Other Common Awesome Lists
 
 Other amazingly awesome lists:
