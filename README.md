@@ -236,6 +236,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [google-authenticator](https://github.com/google/google-authenticator) - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
 - [Stegcloak](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+- [APort](https://aport.io) - Open-source agent verification and authorization guardrails for AI agents. Provides pre-action policy enforcement, passport-based access control, and integration with popular frameworks like OpenClaw, LangChain, and CrewAI.
 
 ### Mobile / Android / iOS
 
@@ -507,6 +508,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 - [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. 
+
+
+### AI Security
+
+- [APort](https://aport.io) - Universal API adapter for AI agents with built-in verification and security guardrails.
 
 ### Other Common Awesome Lists
 
