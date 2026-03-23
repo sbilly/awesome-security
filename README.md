@@ -371,6 +371,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Redcloud](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 - [Axiom](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+- [Lexicon](https://github.com/tkennedy741/Lexicon)- Lexicon is a CLI controller for managing multiple reverse shell sessions in local cybersecurity lab environments.
 
 ## Blue Team Infrastructure Deployment
 
