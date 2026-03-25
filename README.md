@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Boofuzz](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
 - [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
+- [Tessera](https://github.com/tessera-ops/tessera) - OWASP-aligned AI security testing framework with 42 automated tests for LLM, CV, and agentic AI models. Covers prompt injection, adversarial attacks, data governance, and the full OWASP Agentic AI Top 10.
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
