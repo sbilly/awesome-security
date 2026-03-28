@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [Truvizy](https://truvizy.app) - AI-powered scam and deepfake detection tool that analyzes videos, images, and URLs for manipulation, fraud signals, and synthetic media.
 
 ## EBooks
 
