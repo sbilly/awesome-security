@@ -1,4 +1,4 @@
-# Awesome Security
+﻿# Awesome Security
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - The largest open-source collection of 750+ structured cybersecurity skills for AI agents (Claude Code, GitHub Copilot, etc.), mapped to MITRE ATT&CK and NIST CSF 2.0. Each skill follows the agentskills.io open standard for autonomous execution.
 
 ## Social Engineering
 
