@@ -222,7 +222,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 - [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
 - [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
-
+- [ShadowStrike Phantom](https://github.com/ShadowStrike-Labs/ShadowStrike) - Open-source Windows kernel-mode EDR/XDR framework for real-time system monitoring and threat detection.
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
