@@ -297,6 +297,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=sbilly_awesome-security) - See what developers you follow are starring on GitHub. Free.
 ## Web
 
 ### Organization
