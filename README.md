@@ -264,6 +264,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 - [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+- [NullSec LogReaper](https://github.com/bad-antics/nullsec-logreaper) - DFIR log analysis and threat detection tool with pattern matching, timeline reconstruction, and automated IOC extraction across syslog, auth, Windows Event, and cloud audit logs.
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
@@ -415,6 +416,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
 - [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution built for penetration testing and DFIR, featuring pre-configured offensive and defensive tooling with hardened defaults.
 
 ### Online resources
 
