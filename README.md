@@ -402,6 +402,9 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
+- [Dependency Guardian](https://westbayberry.com) - Behavioral supply chain security scanner for npm and PyPI. Detects malicious install
+  scripts, credential theft, obfuscation, and exfiltration in package dependencies before they merge.
+  
 ## Terminal
 
 * [shellfirm](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
