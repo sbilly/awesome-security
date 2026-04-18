@@ -422,6 +422,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Best Linux Penetration Testing Distributions @ CyberPunk](https://www.cyberpunk.rs/category/pentest-linux-distros) - Description of main penetration testing distributions
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 - [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - Guide for hardening Windows 10
+- [FastTool Security](https://fasttool.app/category/security) - Browser-based hash generators, JWT decoder, base64 tools, password strength meter, and other quick security utilities.
 
 ## Datastores
 
