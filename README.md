@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Mobile / Android / iOS](#mobile--android--ios)
     - [Forensics](#forensics)
   - [Threat Intelligence](#threat-intelligence)
+  - [Incident Response](#incident-response)
   - [Social Engineering](#social-engineering)
   - [Web](#web)
     - [Organization](#organization)
@@ -292,6 +293,10 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+
+## Incident Response
+
+- [S.I.R.T.](https://github.com/mello-io/SIRT) - Security Incident Response Transcript. Stack-specific IR checklists for L1 SOC analysts. 22 incident types, 60+ security tools, MITRE ATT&CK tagged. Includes Claude skill bundle. Try it [here](https://sirt-five.vercel.app).
 
 ## Social Engineering
 
