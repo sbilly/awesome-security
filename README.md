@@ -163,6 +163,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [wazuh](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 - [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [SIEM Cost Calculator](https://siemcostcalculator.com) - Estimate and compare SIEM platform costs across Splunk, Microsoft Sentinel, Elastic SIEM, and IBM QRadar by log volume and retention period.
 
 ### VPN
 
