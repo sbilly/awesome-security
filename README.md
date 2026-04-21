@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [scapy](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
 - [Pompem](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
 - [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
+- [HackMyIP](https://hackmyip.com) - Free online privacy toolkit with email breach checker, DNS leak test, WebRTC leak detection, browser fingerprinting, port scanner, and IP geolocation. Includes free API with no authentication required.
 - [Amass](https://github.com/owasp-amass/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
 - [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
 - [Finshir](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
