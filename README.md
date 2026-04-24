@@ -379,6 +379,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ## Usability
 
 - [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
+- [Threat Model Builder](https://github.com/Predaxia/threat-model-builder) - Interactive threat model assessment for civilians. 7 profiles, personalized scoring, browser-only, no data collected.
 
 ## Big Data
 
