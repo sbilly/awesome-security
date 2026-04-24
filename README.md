@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [SENTINEL](https://github.com/sentinel-safety/SENTINEL) - Open-source behavioral intelligence platform for child safety detection. Detects online grooming through behavioral pattern analysis across sessions (linguistic, graph, temporal, and fairness signal layers) rather than keyword filtering. Includes compliance infrastructure for EU DSA, UK Online Safety Act, and COPPA.
 
 ## EBooks
 
