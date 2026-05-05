@@ -268,6 +268,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
 - [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
+- [Spectator](https://github.com/CzaxStudio/Spectator) - A cybersecurity scripting language built for pentesters, red teamers, and security researchers. Write recon scripts, build GUI tools, automate assessments, and analyze forensic data. Features built-in security modules (recon, OSINT, web, exploitation, fuzzing, payloads, crypto), native GUI framework, HTTP engine, mission reporting, and SHA-256 verified package manager.
 
 ## Threat Intelligence
 
