@@ -236,6 +236,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [google-authenticator](https://github.com/google/google-authenticator) - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
 - [Stegcloak](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+- [Authgear Password Hash Generator](https://www.authgear.com/tools/password-hash-generator) - Online tool to generate and verify Argon2id, bcrypt, scrypt, and PBKDF2 password hashes.
 
 ### Mobile / Android / iOS
 
@@ -338,6 +339,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Trust Scan](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
 - [react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
 - [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+- [Authgear SSL Checker](https://www.authgear.com/tools/ssl-checker) - Online tool to inspect any HTTPS host's SSL/TLS certificate chain (leaf, intermediates, and root) and spot misconfigurations such as missing intermediate certificates.
 
 
 ### Runtime Application Self-Protection
