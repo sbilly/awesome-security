@@ -401,6 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [ML Guard](https://github.com/ml-guard/ml-guard) - Offline-first security and compliance scanner for ML pipelines. Detects malicious pickle deserialization, embedded executables in safetensors, custom-domain ONNX operators, leaked secrets (AWS/GitHub/OpenAI/etc), and vulnerable PyPI dependencies via a local OSV database. Emits SARIF for GitHub Code Scanning and PDF compliance reports for EU AI Act, NIST AI RMF, ISO 27001, and SOC 2.
 
 ## Terminal
 
