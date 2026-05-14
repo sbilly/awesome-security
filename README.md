@@ -522,3 +522,8 @@ Other amazingly awesome lists:
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome!
+
+
+### AI Agent Security
+
+* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Runtime defense against memory poisoning and prompt injection in AI agents (OWASP ASI06).
