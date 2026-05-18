@@ -226,6 +226,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+- [pdf-defang](https://github.com/kovetz-PDF/pdf-defang) - Lightweight Python library that strips JavaScript, OpenAction, Launch actions, embedded files, dangerous URI schemes and other active content from PDFs. Built on pikepdf. MIT licensed.
 
 ### Configuration Management
 
