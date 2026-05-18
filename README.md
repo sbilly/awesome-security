@@ -401,6 +401,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [API Contract Guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - MCP server for detecting API contract violations, breaking changes, and schema drift with automated security regression testing.
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect and alert on configuration drift across environments to prevent security misconfigurations.
 
 ## Terminal
 
