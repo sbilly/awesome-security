@@ -41,6 +41,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Exploits & Payloads](#exploits--payloads)
   - [Usability](#usability)
   - [Big Data](#big-data)
+  - [Governance, Risk & Compliance (GRC)](#governance-risk--compliance-grc)
   - [DevOps](#devops)
   - [Terminal](#terminal)
   - [Operating Systems](#operating-systems)
@@ -391,6 +392,10 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
+
+## Governance, Risk & Compliance (GRC)
+
+- [isms.sh](https://github.com/unidoc/isms) - Open-source Information Security Management System for ISO 27001, NIS2, and DORA. Risk register, asset and supplier management, policy lifecycle with Git-native version control, incident management, internal audits, and document export to Word/Excel/PDF. Self-hostable, single Go binary.
 
 ## DevOps
 
