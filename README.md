@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+- [Domain Intelligence API](https://github.com/osiris-technical-institute/domain-intelligence-api) - REST API aggregating WHOIS/RDAP, DNS records, SSL certificate inspection, subdomain enumeration (5 sources + always-on DNS bruteforce), and email security (SPF/DMARC/DKIM) for any domain in one call. MIT-licensed, free tier.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
