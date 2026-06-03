@@ -42,6 +42,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Usability](#usability)
   - [Big Data](#big-data)
   - [DevOps](#devops)
+  - - [Deep-Scout GitHub](https://github.com/Shreyas0047/Deep-Scout-Github) - A CLI tool that scans GitHub organizations for accidentally committed secrets using regex patterns and Shannon entropy  analysis.
   - [Terminal](#terminal)
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
