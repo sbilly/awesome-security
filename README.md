@@ -415,6 +415,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
 - [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
+- [NoID Privacy Workstation 44](https://github.com/NexusOne23/noid-privacy-workstation) - A LAN-isolated, WAN-only privacy and security hardening of Fedora Workstation 44, built from a reproducible kickstart with 40 modules (SELinux, AIDE, USBGuard, LUKS, arkenfox Firefox). Based on Fedora, not affiliated with the Fedora Project. GPL-3.0.
 
 ### Online resources
 
