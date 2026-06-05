@@ -401,6 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- - [FedRAMP 20x KSI Action](https://github.com/Boundera/fedramp-20x-ksi-action) - GitHub Action that evaluates Terraform infrastructure against FedRAMP 20x Key Security Indicators (KSIs) for federal cloud compliance, with no vendor backend in the data path.
 
 ## Terminal
 
