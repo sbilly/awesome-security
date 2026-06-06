@@ -338,6 +338,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Trust Scan](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
 - [react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
 - [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+- [EXORR Prompt Fuzzer](https://github.com/exorrtech/exorr-prompt-fuzzer) - Automated LLM prompt injection and jailbreak testing for red teams. 19 built-in payloads across 5 attack categories with heuristic response classification.
+- [EXORR Azure Audit](https://github.com/exorrtech/exorr-azure-audit) - Azure & Entra ID security misconfiguration scanner with live and offline scanning modes.
+- [EXORR Secret Scanner](https://github.com/exorrtech/exorr-secret-scanner) - Detect leaked secrets in Git repositories with 16 regex patterns and intelligent false-positive detection.
+- [EXORR Subdomain Monitor](https://github.com/exorrtech/exorr-subdomain-monitor) - Continuous subdomain discovery and change tracking with subfinder integration.
+- [EXORR Recon Toolkit](https://github.com/exorrtech/recon-toolkit) - Automated attack surface discovery pipeline orchestrating subfinder, httpx, nmap, and nuclei.
 
 
 ### Runtime Application Self-Protection
