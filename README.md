@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Open-source, self-hosted invisible CAPTCHA and bot detection engine. Detects bots, AI agents, and headless browsers via behavioral signals, TLS fingerprinting, and SHA-256 proof of work.
 
 ## EBooks
 
