@@ -363,6 +363,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
 - [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
 
+- [CVE Lite CLI](https://github.com/OWASP/cve-lite-cli) - OWASP Incubator Project. Scans JavaScript and TypeScript lockfiles locally for vulnerable dependencies across npm, pnpm, Yarn, and Bun, with copy-and-run fix commands.
+
 ## Exploits & Payloads
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
