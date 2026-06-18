@@ -507,6 +507,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 - [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. 
+- [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - Open-source AI red teaming platform by Tencent Zhuque Lab. Scans Agent Skills for tool poisoning, MCP servers for 9 attack vector classes, AI infrastructure (50+ components, 1200+ CVEs), and evaluates LLM jailbreak resistance. Black Hat Europe 2025 Arsenal. MIT license.
 
 ### Other Common Awesome Lists
 
