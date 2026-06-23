@@ -338,6 +338,8 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Trust Scan](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
 - [react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
 - [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+- [Protego Vulnerability Scanner](https://protego.me/tools/vulnerability-scanner) - Free browser-based vulnerability scanner that runs passive reconnaissance against a target domain, checking for open ports, SSL issues, security headers, and DNS misconfigurations.
+- [Protego CVE Prioritization](https://protego.me/tools/cve-prioritization) - Free tool that cross-references CVSS base scores, EPSS exploit probability, and CISA KEV catalog status to help prioritize vulnerability remediation.
 
 
 ### Runtime Application Self-Protection
