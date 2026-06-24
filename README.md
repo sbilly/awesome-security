@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight, single-file DDoS traffic monitor for Linux. Captures packets via raw sockets and reports PPS, bandwidth, protocol breakdown, source IP cardinality, and attack severity classification in real time. Supports JSON output for piping into custom alerting or SIEM tooling.
 
 ### IDS / IPS / Host IDS / Host IPS
 
