@@ -352,6 +352,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - Free eBook sampler that gives some context for how API security works in the real world by showing how APIs are put together and how the OAuth protocol can be used to protect them.
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
+- [APort](https://aport.io/) - AI agent passport and pre-action authorization guardrails for tool calls, with integrations for OpenClaw, Claude Code, LangChain, and CrewAI.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Bearer](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
