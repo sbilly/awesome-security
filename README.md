@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [DomScan](https://domscan.net) - Domain intelligence API and MCP server for DNS, WHOIS/RDAP, SSL/TLS, subdomain enumeration, certificate search, typosquatting and brand monitoring, plus domain valuation and availability.
 
 ## Social Engineering
 
