@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+- [Alfa Arsenal](https://github.com/ardittirana/alfa-arsenal) - Policy-gated Wi-Fi/802.11 network security auditor for authorized testing, covering channel-hopping reconnaissance, WPA/WPA2 handshake and PMKID capture, WPS posture checks, and Markdown/HTML/PDF reporting.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
