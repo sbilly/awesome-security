@@ -507,6 +507,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 - [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. 
+- [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - A curated list of sandboxing and isolation solutions for running the code of AI coding agents, ranked by isolation strength, egress control and secrets handling.
 
 ### Other Common Awesome Lists
 
