@@ -222,6 +222,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 - [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
 - [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+- [Bulwark](https://github.com/vietanhdev/bulwark) - Host security scanner for Linux desktops and servers, with a CLI and a native GUI. Checks SSH, sudo, kernel, cron and permissions against a YAML rule pack, integrates ClamAV for signature scanning, and does file-integrity monitoring.
 
 ### Content Disarm & Reconstruct
 
