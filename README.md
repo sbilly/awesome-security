@@ -163,6 +163,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [wazuh](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 - [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [SOCTalk](https://github.com/soctalk/soctalk) - Open-source, LLM-driven SOC automation platform for MSPs and MSSPs built on Wazuh. Continuously triages, investigates, and escalates security alerts through a two-tier AI pipeline with human-in-the-loop review and multi-tenant Kubernetes isolation. Apache 2.0.
 
 ### VPN
 
@@ -390,6 +391,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Apache Spot (incubating)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+- [SOCTalk](https://github.com/soctalk/soctalk) - Open-source, LLM-driven SOC automation platform for MSPs and MSSPs built on Wazuh. Continuously triages, investigates, and escalates security alerts through a two-tier AI pipeline with human-in-the-loop review and multi-tenant Kubernetes isolation. Apache 2.0.
 - [VAST](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 
 ## DevOps
