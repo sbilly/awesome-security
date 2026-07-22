@@ -440,6 +440,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 - [LunaSec](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
+- [secrets-dispatcher](https://github.com/nikicat/secrets-dispatcher) - Secret Service (D-Bus keyring) proxy adding per-application approval, process-chain attribution, and an audit log for credential access on Linux; also gates git commit signing.
 
 ## Fraud prevention
 
