@@ -365,6 +365,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 ## Exploits & Payloads
 
+- [0day Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish) - AI-discovered 0-day vulnerabilities in enterprise software with full root-cause analyses and reproducible exploit scripts.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Red Team Infrastructure Deployment
