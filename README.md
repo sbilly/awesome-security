@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [opseclint](https://github.com/Gerrrt/opseclint) - Detection-coverage analyzer that statically maps shell/command actions to ATT&CK techniques, the host telemetry they emit, and the Sigma detections that would fire, across Linux/auditd, Windows/Sysmon, and macOS/Endpoint Security.
 
 ### IDS / IPS / Host IDS / Host IPS
 
