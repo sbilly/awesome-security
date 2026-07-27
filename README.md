@@ -73,6 +73,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
 - [Amass](https://github.com/owasp-amass/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
 - [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
+- [AutoWIFI](https://github.com/momenbasel/AutoWIFI) - A wireless penetration testing framework that automates the full wireless attack chain from recon through exploitation. Supports multi-vector attacks (WEP, WPA/WPA2, WPS), multiple cracking backends (aircrack-ng, hashcat, John the Ripper), live scanning, smart target selection, session management, report generation, auto monitor mode and MAC randomization.
 - [Finshir](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 - [Legion](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 - [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
