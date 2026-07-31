@@ -231,6 +231,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Fleet device management](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 - [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
+- [agentsurface](https://github.com/Northbeams-Labs/agentsurface) - A command-line tool that inventories the AI agent machinery installed on an endpoint: model context protocol servers across many clients, desktop extensions, plugins, skills, connectors, scheduled agent tasks, instruction files, and AI browser extensions with their native messaging hosts. Reports where each item came from and what its declared configuration says it can reach. Makes no network calls, requires no account and uploads nothing. It is an inventory: it does not judge whether anything it finds is malicious and does not detect prompt injection.
 
 ### Authentication
 
