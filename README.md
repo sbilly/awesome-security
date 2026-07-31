@@ -77,6 +77,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Legion](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 - [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [SecNav](https://secnavpro.com) - Interactive incident response and skill verification platform featuring realistic breach simulations across SOC, IR, Cloud Security, and Red Teaming scenarios.
 - [RustScan](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 - [Boofuzz](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
