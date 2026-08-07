@@ -488,6 +488,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Privacy](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+- [Website Admin & Security Command Toolkit](https://ordinarymantrying.com/tools/toolkit/) - 500+ copy-paste commands for Linux/Windows incident response, webshell detection, malware checks, Docker forensics, and security hardening. Editable inline placeholders, no install, bilingual EN/ZH.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 - [Awesome Electron.js Hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
