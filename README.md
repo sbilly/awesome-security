@@ -362,6 +362,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 - [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
 - [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
+- [GuardLayer](https://www.guardlayer.io) - Static security scanner for Next.js + Supabase apps; flags exposed keys, missing or disabled Row Level Security, over-permissive policies, and unprotected routes on every push. Free tier and an open-source GitHub Action.
 
 ## Exploits & Payloads
 
