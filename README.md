@@ -375,6 +375,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ## Blue Team Infrastructure Deployment
 
 - [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+- [CloudSentrix](https://github.com/Talha-Imran-cloud/cloudsentrix) - Open-source multi-cloud security analysis platform for AWS, Azure, GCP, Terraform and Kubernetes. Detects IAM privilege-escalation paths, misconfigurations, blast radius, and compliance risks with HTML dashboards and PDF reports.
 
 ## Usability
 
