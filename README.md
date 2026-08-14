@@ -226,6 +226,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Configuration Management
 
