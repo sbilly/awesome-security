@@ -469,6 +469,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com) - Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code.
 - [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - A book about building web apps that are ready for and resilient to any attack.
+- [The Authorization Maturity Model: A CISO's Benchmark for 2026](https://solutions.cerbos.dev/authorization-maturity-model-a-cisos-benchmark) - A 4-stage benchmark for assessing and improving authorization program maturity, with exposure ratings across NIS2, DORA, SEC and the EU AI Act.
 
 ## Other Awesome Lists
 
