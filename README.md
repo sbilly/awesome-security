@@ -226,6 +226,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+- [MetaClean](https://github.com/Moresyl/metaclean) - A cross-platform, offline desktop application that removes sensitive metadata from images, PDFs, Office documents, and text-based files before sharing.
 
 ### Configuration Management
 
