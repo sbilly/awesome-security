@@ -296,6 +296,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## Social Engineering
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+- [Gophish-NG](https://github.com/raginx/gophish-ng) - Actively maintained, security-hardened fork of Gophish.
+
 
 ## Web
 
