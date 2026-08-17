@@ -401,6 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [sf-audit](https://github.com/cclabsnz/sf-audit-plugin) - A read-only security posture audit for Salesforce orgs, run as a Salesforce CLI plugin in CI or locally. 88 checks across identity, access, data, code, integrations and Agentforce/GenAI, correlated into attack chains, scored A-F, and mapped to OWASP, SOC 2 and ISO 27001.
 
 ## Terminal
 
