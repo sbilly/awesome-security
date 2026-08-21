@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [IP Radar](https://github.com/steponeerror/ip-radar) - Self-hosted IP threat intelligence fusion: 29 public feeds (abuse, blocklists, Tor/VPN/proxy, GeoIP, ASN) merged into one verdict per IP with a 0-100 confidence score and per-source evidence. Single Docker container, zero API keys to start.
 
 ## Social Engineering
 
