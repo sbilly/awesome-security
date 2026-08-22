@@ -296,6 +296,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## Social Engineering
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+- [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) - Free global online scam checker with multilingual scam-awareness guides, recovery checklists, and reporting routes to help people recognize and respond to phishing and other social-engineering scams.
 
 ## Web
 
