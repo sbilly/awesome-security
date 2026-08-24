@@ -522,3 +522,6 @@ Other amazingly awesome lists:
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome!
+
+
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI forensic platform for synthetic media detection, SHA-256 chain-of-custody tracking, and HMAC-attested audit dossiers.
