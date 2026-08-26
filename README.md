@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [LogSentinel](https://github.com/XenoCyber0/LogSentinel) - AI-powered log forensics platform for security analysts. Paste raw logs (nginx, auth.log, syslog, Windows Event, JSON, Apache) and get structured threat reports with severity ratings, per-IP analysis, attack timelines, and remediation steps. Self-hosted and local-first with pluggable LLM backends (OpenRouter, Groq, Ollama, or any OpenAI-compatible endpoint), prompt-injection defense, and XSS-safe rendering.
 
 ### IDS / IPS / Host IDS / Host IPS
 
