@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
   - [Exploits & Payloads](#exploits--payloads)
   - [Usability](#usability)
+  - [Operational Technology Security](#operational-technology-security)
   - [Big Data](#big-data)
   - [DevOps](#devops)
   - [Terminal](#terminal)
@@ -379,6 +380,16 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ## Usability
 
 - [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
+
+## Operational Technology Security
+
+- [OWASP OT Top 10](https://ot.owasp.org) - Official OWASP Foundation project mapping the top 10 security risks in operational technology environments, with compliance mappings to IEC 62443, NIST SP 800-82, and IEC 62061.
+- [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources for Industrial Control System (ICS) and OT security, including tools, frameworks, threat intelligence and functional safety integration resources.
+- [ICS Cybersecurity Audit Framework](https://github.com/frangelbarrera/ICS-Cybersecurity-Audit) - A structured 5-phase cybersecurity audit methodology for ICS/OT environments aligned with IEC 62443, NIST SP 800-82 and IEC 62061 for safety-critical systems.
+- [NCSC CAF](https://www.ncsc.gov.uk/collection/cyber-assessment-framework) - The UK National Cyber Security Centre Cyber Assessment Framework for operators of essential services and critical national infrastructure. Four objectives covering governance, protection, detection and response.
+- [Securing Research Facilities: Challenges and Solutions in Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5619874) - Practitioner-authored framework for cybersecurity in large-scale scientific research infrastructure, addressing OT exposure, remote access for international user communities, and safety-security integration (SSRN, 2025).
+- [IEC 62061](https://www.iso.org/standard/73774.html) - International standard for functional safety of safety-related control systems for machinery. Essential for OT environments where PLCs, safety interlocks, and personnel protection systems perform SIL-classified safety functions.
+- [NIST SP 800-82 Rev 3](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final) - NIST Guide to Operational Technology Security. Covers OT-specific network architecture, incident response, and the challenges of securing systems that cannot be patched or shut down using standard IT processes.
 
 ## Big Data
 
