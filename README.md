@@ -415,7 +415,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
 - [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
-
+- [Security Baseline for Ubuntu Desktop](https://github.com/EugeXo/security-baseline-ubuntu) - Hardening guide and security baseline for Ubuntu Desktop LTS.
 ### Online resources
 
 - [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
