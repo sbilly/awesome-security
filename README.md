@@ -296,6 +296,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## Social Engineering
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+- [VoltPhish](https://github.com/Baymax-armed/Voltphish) - Open-source, self-hosted phishing-simulation and security-awareness platform: internal phishing simulations (email/QR/calendar), a report-phish button, a training LMS with auto-enrollment, and human-risk analytics.
 
 ## Web
 
