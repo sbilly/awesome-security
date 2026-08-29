@@ -56,6 +56,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ------
 
 ## Network
+- [RansomLeak](https://ransomleak.com) - Interactive security training platform with 100+ hands-on exercises for security awareness, application security, API security, and cloud infrastructure. Free individual tier, enterprise options available.
+
 
 ### Network architecture
 
