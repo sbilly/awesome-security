@@ -153,6 +153,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Wireshark is very similar to tcpdump, but has a graphical front-end, plus some integrated sorting and filtering options.
 - [netsniff-ng](http://netsniff-ng.org/) -  netsniff-ng is a free Linux networking toolkit, a Swiss army knife for your daily Linux network plumbing if you will. Its gain of performance is reached by zero-copy mechanisms, so that on packet reception and transmission the kernel does not need to copy packets from kernel space to user space and vice versa.
 - [Live HTTP headers ](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) - Live HTTP headers is a free firefox addon to see your browser requests in real time. It shows the entire headers of the requests and can be used to find the security loopholes in implementations.
+- [SSH-MITM](https://github.com/ssh-mitm/ssh-mitm) - man in the middle tool for SSH sessions, intercepts interactive sessions and file transfers, supports subsystems like PowerShell remoting and NETCONF.
 
 ### Security Information & Event Management
 
