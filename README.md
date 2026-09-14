@@ -470,6 +470,10 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - A book about building web apps that are ready for and resilient to any attack.
 
+## Learning Resources
+
+- [CyberTimeline](https://github.com/priyanshu-rawa/Breach-Timeline) - Interactive timeline of 35 major cyberattacks across five decades, showing how attacker techniques and defenses have evolved.
+
 ## Other Awesome Lists
 
 ### Other Security Awesome Lists
