@@ -522,3 +522,6 @@ Other amazingly awesome lists:
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome!
+
+
+- [Sentinel AI](https://github.com/wolowizardnft2022/sentinel-ai) - Local bug-bounty recon and triage toolkit (proxy, ProjectDiscovery pipeline, Ollama triage). Authorized targets only.
