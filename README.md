@@ -44,6 +44,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
   - [DevOps](#devops)
   - [Terminal](#terminal)
   - [Operating Systems](#operating-systems)
+    - [Hardening](#hardening)
     - [Online resources](#online-resources)
   - [Datastores](#datastores)
   - [Fraud prevention](#fraud-prevention)
@@ -415,6 +416,10 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
 - [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
 - [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
+
+### Hardening
+
+- [linux-utils](https://github.com/albilu/linux-utils) - Automated Debian full-disk encryption installer: LUKS1/LUKS2 + LVM + UEFI Secure Boot with custom keys, GRUB hardening and chroot recovery.
 
 ### Online resources
 
