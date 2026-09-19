@@ -86,6 +86,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
 
 ### Monitoring / Logging
+- [Hive80 Lab Ops Starter Kit](https://hive80lab.gumroad.com/l/ops-starter-kit) - Free incident response runbooks, restore-test logs and on-call checklists for small IT/MSP teams.
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
 - [justniffer](http://justniffer.sourceforge.net/) - Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 - [httpry](http://dumpsterventures.com/jason/httpry/) - httpry is a specialized packet sniffer designed for displaying and logging HTTP traffic. It is not intended to perform analysis itself, but to capture, parse, and log the traffic for later analysis. It can be run in real-time displaying the traffic as it is parsed, or as a daemon process that logs to an output file. It is written to be as lightweight and flexible as possible, so that it can be easily adaptable to different applications.
