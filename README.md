@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents (prompt injection, agent supply-chain attacks, agent-framework CVEs, AI-orchestrated intrusions), one sourced record per event, with JSON/CSV exports and a list of every source URL.
 
 ## Social Engineering
 
