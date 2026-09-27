@@ -522,3 +522,6 @@ Other amazingly awesome lists:
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome!
+
+
+- [ProxSuite PRO](https://github.com/prox0959/ProxSuite-PRO) - 25-in-1 native x64 Windows live memory forensics (Module Stomping, Process Ghosting, NTDLL syscall unhooking), LSASS SSP audit, C2 Named Pipe scanner, and DFIR triage suite.
