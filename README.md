@@ -296,6 +296,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## Social Engineering
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+- [/Dev/Out Digital](https://devout.digital/) - Security awareness training and phishing simulation platform with interactive courses, branching scenarios, org-wide campaigns, and compliance reporting.
 
 ## Web
 
