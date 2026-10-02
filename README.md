@@ -338,6 +338,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Trust Scan](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
 - [react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
 - [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+- [GuardBee](https://app.guardbee.ai) - AI security platform that scans websites, APIs, and AI applications for issues such as OWASP Top 10 flaws, SSL/TLS misconfigurations, exposed secrets, and prompt-injection risk, delivering modular, actionable reports.
 
 
 ### Runtime Application Self-Protection
