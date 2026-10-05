@@ -268,6 +268,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
 - [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
+- [RedoSan Authenticity](https://github.com/Redo-San/RedoSan-Authenticity) - Open-source digital authenticity toolkit: image/audio/document watermarking, 21 fingerprint hashes, C2PA provenance, DIDs, certificates and forensic analysis.
 
 ## Threat Intelligence
 
