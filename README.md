@@ -401,6 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [PQC Readiness Scan](https://github.com/johnInarti/pqc-readiness-action) - A GitHub Action that statically scans a repository for quantum-vulnerable cryptography (RSA, ECDSA, ECDH/X25519, Ed25519/Ed448, finite-field Diffie-Hellman, DSA, committed SSH/X.509 key material and manifest dependencies) and writes a CycloneDX 1.6 CBOM. Being a static scan it is not a proof of absence, and it is not a compliance certification. Runs entirely in the caller's runner and uploads nothing.
 
 ## Terminal
 
