@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [Network Data Labs](https://www.networkdatalabs.com/) - IP intelligence API that returns geolocation, timezone and ASN, plus risk flags for known VPN networks, Tor exit nodes and hosting ranges, to help flag risky signups and logins. Free tier available.
 
 ## EBooks
 
