@@ -231,8 +231,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Fleet device management](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 - [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
-- [sshd-hardening-auditor](https://git.canutethegreat.com/canutethegreat/sshd-hardening-auditor) - Dependency-free Python CLI that audits sshd_config (or a live sshd -T output) against CIS Benchmark / NIST-aligned SSH hardening rules, with JSON and HTML report output. pip install sshd-hardening-auditor.
-- [tls-cert-watchdog](https://git.canutethegreat.com/canutethegreat/tls-cert-watchdog) - Dependency-free Python CLI that checks TLS certificate expiry, weak protocol versions, and common misconfigurations across one or more hosts; CI/cron friendly exit codes. pip install tls-cert-watchdog.
+- [sshd-hardening-auditor](https://git.canutethegreat.com/canutethegreat/sshd-hardening-auditor) - Dependency-free Python CLI that audits sshd_config (or a live sshd -T output) against CIS Benchmark / NIST-aligned SSH hardening rules, with JSON and HTML report output.
+- [tls-cert-watchdog](https://git.canutethegreat.com/canutethegreat/tls-cert-watchdog) - Dependency-free Python CLI that checks TLS certificate expiry, weak protocol versions, and common misconfigurations across one or more hosts; CI/cron friendly exit codes.
 
 ### Authentication
 
