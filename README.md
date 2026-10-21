@@ -440,6 +440,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 - [LunaSec](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
+- [Portunus](https://github.com/mdostal/portunus) - Boundary-only secret broker for AI agents: agents reference a secret by name and the value is injected only into an env var, file, or exec argv, never returned to the model's context. Approval gate, fail-closed lookup, and a hash-chained audit log. MIT.
 
 ## Fraud prevention
 
