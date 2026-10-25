@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [Scorpio Guard](https://github.com/Fachryxyf/scorpio-guard) - Node.js library that scores how much trust one client deserves from behaviour (request timing, repetition, sequence, and how varied the targets are) and advises a step from ALLOW to BLOCK. Advisory only: the host decides what to do, and the history stays in the host's own store.
 
 ## EBooks
 
