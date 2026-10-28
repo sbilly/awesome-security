@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [ShieldLabs](https://shieldlabs.ai/) - Fraud detection and prevention with device identification, bot detection, VPN/proxy/Tor risk signals, and detection of multi-accounting, account sharing, impossible travel and account takeover.
 
 ## EBooks
 
