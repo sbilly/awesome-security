@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [Cognito Scanner](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local audit of IoT devices on your own network: discovers devices, captures their traffic passively, scans open ports and writes a graded HTML report. Nothing leaves your computer.
 
 ### Monitoring / Logging
 - [BoxyHQ](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
