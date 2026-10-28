@@ -361,6 +361,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 - [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
+- [pkgscan.dev](https://pkgscan.dev) - Multi-engine supply chain scanner for npm, PyPI, VS Code/Open VSX, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills; reports malware and known vulnerabilities in one verdict.
 - [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
 
 ## Exploits & Payloads
