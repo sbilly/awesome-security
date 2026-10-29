@@ -362,6 +362,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Making Sense of Cyber Security](https://www.manning.com/books/making-sense-of-cyber-security) - A jargon-free, practical guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy. (early access, published continuously, final release early 2022)
 - [Security Checklist by OWASP](https://owasp.org/www-project-application-security-verification-standard/) - A checklist by OWASP for testing web applications based on assurance level. Covers multiple topics like Architecture, IAM, Sanitization, Cryptography and Secure Configuration.
 - [Pompelmi](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
+- [Prancer Cloud Validation Framework](https://github.com/prancer-io/cloud-validation-framework) - Open-source multi-cloud security and Infrastructure-as-Code (IaC) attack validation framework for AWS, Azure, GCP, and Kubernetes (Terraform, CloudFormation, ARM, Kubernetes manifests, and Helm charts) powered by [Prancer](https://www.prancer.io).
 
 ## Exploits & Payloads
 
