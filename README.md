@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [Tifon](https://tifon.dev/) - Free threat intelligence news aggregator. Reads 69 RSS/Atom feeds from research labs, government advisories and the security press, and uses an LLM to turn each article into a structured case (CVEs, IOCs, ATT&CK techniques, threat actors, victim sectors, criticality), with Elasticsearch query syntax search and a public read-only JSON API. Interface in Portuguese; reports in English or Portuguese.
 
 ## Social Engineering
 
