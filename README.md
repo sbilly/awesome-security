@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [Whatoblock](https://whatoblock.com/) - Threat intelligence from a global network of honeypot sensors. Source IPs are classified as scanners, botnet C2 servers, abusive proxies, Tor exit nodes and DDoS sources, searchable by IP, port, ASN and country and exportable as firewall-ready blocklists. A free account is available.
 
 ## Social Engineering
 
