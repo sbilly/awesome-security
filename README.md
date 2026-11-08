@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [CVE Ledger](https://cveledger.app/) - Every public CVE in one place, with filters, CVSS scores, CISA KEV and EPSS, refreshed every few minutes. Free and open source, with a public API and an MCP server, no account needed.
 
 ## Social Engineering
 
