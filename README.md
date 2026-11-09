@@ -354,7 +354,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Bearer](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
-- [Skarn](https://getskarn.com/) - Scans the on-disk session logs of AI coding assistants (Claude Code, Cursor, Codex CLI, Gemini CLI, VS Code Copilot Chat) for leaked credentials and prompt-injection-to-exfiltration attack chains that git secret scanners never see; local-only, SARIF 2.1.0 output, MITRE ATLAS / OWASP LLM / CWE crosswalk. Commercial, with a free tier.
+- [Skarn](https://getskarn.com/) - Scans the on-disk session logs of AI coding assistants (Claude Code, Cursor, Codex CLI, Gemini CLI, GitHub Copilot, Antigravity, Cline and more) for leaked credentials and prompt-injection-to-exfiltration attack chains that git secret scanners never see; local-only, SARIF 2.1.0 output, MITRE ATLAS / OWASP LLM / CWE crosswalk. Commercial, with a free tier.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 - [TFSec](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
