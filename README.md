@@ -401,6 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [Bravos](https://www.bugb.io/bravos) - Commercial security CLI built on GuardLink. It drives your own coding agent through threat modeling, a code graph, SAST (code, dependency advisories, secrets, IaC) and authorized pentests against targets you own to prove which exposures are exploitable, gates every pull request and keeps a retest for each fix. Runs locally; code is not sent to the vendor.
 
 ## Terminal
 
