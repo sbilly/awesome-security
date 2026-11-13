@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## Network
 
+* [impacket-rs](https://github.com/nestho/impacket-rs) - Memory-safe pure-Rust implementation of Impacket network protocols and 74 Active Directory auditing tools.
 ### Network architecture
 
 - [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
