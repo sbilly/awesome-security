@@ -256,6 +256,11 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+- [SanderShield](https://github.com/aleksandergrambelik-png/SanderShield) - **Native Android APK** for Mobile Security Suite. 630KB, Zero-Dependency. Features Port Scanner, CVE Checker, Anti-Tracker, and Tarpit.
+- [SanderDeflect](https://github.com/aleksandergrambelik-png/SanderDeflect) - **Native Android APK** for Active Defense. Features Math Challenge Access Gate, Decoy HTML, Tarpit, and Sinkhole JSON Logging.
+- [SanderHexDump](https://github.com/aleksandergrambelik-png/SanderHexDump) - **Native Android APK** for Hex Editing & Reverse Engineering. Features 12-byte per line view and BackTrack-style UI. No root required.
+- [SanderNotePad](https://github.com/aleksandergrambelik-png/SanderNotePad-Suite) - **Native Android APK** for OSINT & Security. Features Email Recon, Subdomain Finder, Wikipedia Search, and Offline Notepad. 608KB.
+- [SanderScan](https://github.com/aleksandergrambelik-png/SanderScan) - **Java CLI Tool** for LAN & Port Scanning. Features 250-thread scanning and Banner Grabbing. (Runs on PC and Termux).
 
 ### Forensics
 
