@@ -256,6 +256,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting Android APK manifests and decompiled methods through headless JADX.
 
 ### Forensics
 
