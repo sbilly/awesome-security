@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [TrustCaptcha](https://www.trustcomponent.com/en/products/captcha) - Invisible, cookie-free CAPTCHA and bot protection for web forms, with proof-of-work, a bot score and a honeypot. Hosted in the EU.
 
 ## EBooks
 
