@@ -253,7 +253,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler.
 - [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 - [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
-- [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.- [WPAForge](https://github.com/wlmosv-png/wpaforge) - Android WPA/WPA2 weak-passphrase auditor. Candidates are derived from the SSID and operator hints, each one is really associated with the AP, and the verdict requires three signals on the same supplicant line, so it prefers "inconclusive" over a false positive. Also covers WPS PIN and half-handshake attacks, offline `.cap`/`.hc22000` checks, on-device LAN recon and channel diagnostics. Apache-2.0, root required.
+
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
