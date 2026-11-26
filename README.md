@@ -445,6 +445,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 - [FingerprintJS Android](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+- [Scanify](https://scanify.to/) - Check a link, file, QR code or IP before you open it: 170+ antivirus engines, domain age, redirect chain and a sandbox screenshot, in one 0-100 risk score. Free, no account needed.
 
 ## EBooks
 
