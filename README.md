@@ -147,6 +147,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [OpenFPC](http://www.openfpc.org) - OpenFPC is a set of tools that combine to provide a lightweight full-packet network traffic recorder & buffering system. It's design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log management tools.
 - [Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
 - [stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
+- [PCAP Surgery](https://hannes-software.com/pcap-surgery/) - Offline cross-platform desktop PCAP/PCAPNG packet analyzer for TCP stream reassembly, HTTP/TLS/DNS protocol decoding, and capture diffing without cloud uploads.
 
 ### Sniffer
 
