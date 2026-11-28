@@ -302,6 +302,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Organization
 
 - [OWASP](http://www.owasp.org) - The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software.
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - Unified offensive security & AppSec MCP server for AI agents (160 tools: multi-language SAST/taint, live secret validation, Web DAST, 21,100+ 1-Day CVE verification, 29-protocol enumeration, OSINT, Cloud/AD audit, Scope Firewall; Streamable HTTP & local CLI).
 - [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
 
 ### Web Application Firewall
